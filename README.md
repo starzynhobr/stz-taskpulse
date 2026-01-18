@@ -52,3 +52,14 @@ Settings/Settings.ini
 
 ## Notes
 - Always-on-top skins will sit above most windows; you can change `ZPos` if needed.
+
+
+## ⚖️ Licensing (Dual Licensing)
+
+STZTaskPulse is available under two distinct licenses:
+
+1) Community Use (GPLv3): Free for personal use and open-source projects. You are free to modify and distribute this skin, provided that your changes remain open-source.
+
+2) Commercial Use: For companies wishing to integrate this system monitor or its toggle logic into proprietary software, OEM desktop themes, or commercial kiosk interfaces.
+
+To acquire a commercial license, please contact: [starzynhobr@gmail.com]
